@@ -25,3 +25,14 @@ footer{
     font-style: italic;
     text-align: center;
 }
+
+
+
+img{
+    border-radius: 50%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    margin: auto;
+    display: block;
+    margin-top: 20px;
+}
