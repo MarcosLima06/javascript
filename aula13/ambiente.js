@@ -1,5 +1,5 @@
 var c = 1
-do{
+do {
     console.log(`Passo ${c}`)
     c++
 }while (c <= 2)
